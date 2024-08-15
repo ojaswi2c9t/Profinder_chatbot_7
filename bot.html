@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- SEO and Meta Tags -->
+    <title>ProFinder - Your Ultimate Shopping Assistant</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Vendor CSS & Fonts -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300|Open+Sans:300|Oxygen|Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row padded_row">
+
+            <!-- Right Side Content -->
+            <div class="col-md-7">
+                <div class="chat_window">
+                    <div class="top_menu">
+                        <div class="title">ProFinder</div>
+                    </div>
+                    <!-- Dynamically Rendered -->
+                    <ul class="messages"></ul>
+                    <!-- Input -->
+                    <div class="bottom_wrapper">
+                        <input id="msg_input" placeholder="Say Hi to begin chat..." />
+                        <div id="send_button" class="app_button_1">Send</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Left Side Content -->
+            <div class="col-md-5">
+                <div class="chat_window">
+                    <div class="top_menu">
+                        <div class="title">Welcome to ProFinder</div>
+                    </div>
+                    <!-- Help Container -->
+                    <div class="panel-group" id="accordion">
+                        <!-- Help - 1 -->
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                                        Who is ProFinder?
+                                    </a>
+                                </h4>
+                            </div>
+                            <div id="collapse1" class="panel-collapse collapse in">
+                                <div class="panel-body">
+                                    ProFinder is designed to simplify your shopping experience by addressing key challenges:
+                                    <ul>
+                                        <li><strong>Pricing Trends:</strong> Get clear guidance on whether to buy now or wait for a better deal.</li>
+                                        <li><strong>Price Comparisons:</strong> Compare prices across major e-commerce platforms in one place.</li>
+                                        <li><strong>Optimal Purchase Timing:</strong> Receive recommendations on the best time to make a purchase based on historical data and upcoming sales.</li>
+                                    </ul>
+                                    Our chatbot provides actionable insights and recommendations to help you shop smarter.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Vendor Script Files -->
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+    <!-- Custom Scripts -->
+    <script src="main.js"></script>
+</body>
+
+</html>
