@@ -42,7 +42,7 @@ ProFinder is a cutting-edge solution designed to enhance the online shopping exp
 ## Prediction_Model Link
 
 
-**Access Link:** (https://github.com/ishap11/Prediction_Model)
+**Access Link:** (https://github.com/madhuramkulshrestha123/Profinder_chatbot_7)
 
 ## Dataset Link
 
