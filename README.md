@@ -33,11 +33,17 @@ ProFinder is a cutting-edge solution designed to enhance the online shopping exp
 
 **Client:** HTML/ CSS , React
 
-**Server:** Node, Express, MongoDB 
+**Server:** Python, JavaScript.
+
+**Api:** Self made API for Price Prediction
 
 ## Example Image
+![WhatsApp Image 2024-08-16 at 18 1![WhatsApp Image 2024-08-16 at 18 16 48_9d1cc527]
+(https://github.com/user-attachments/assets/8bfe8a3d-8b61-41ca-91c2-5c59e8e368d8)
+5 50_026460d3](https://github.com/user-attachments/assets/bc068364-f585-4d1b-a45c-22f242a7cdaf)
 
-![Screenshot 2024-08-04 122715](https://github.com/user-attachments/assets/f187ffd6-3ccf-4e1e-a36e-9fef4d5b4c5a)
+(https://github.com/user-attachments/assets/353c2b99-eb70-4d3c-9294-f8bcb2d122d7)
+t 2024-08-04 122715](https://github.com/user-attachments/assets/f187ffd6-3ccf-4e1e-a36e-9fef4d5b4c5a)
 
 ## Prediction_Model Link
 
