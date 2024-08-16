@@ -38,17 +38,14 @@ ProFinder is a cutting-edge solution designed to enhance the online shopping exp
 **Api:** Self made API for Price Prediction
 
 ## Example Image
-![WhatsApp Image 2024-08-16 at 18 1![WhatsApp Image 2024-08-16 at 18 16 48_9d1cc527]
-(https://github.com/user-attachments/assets/8bfe8a3d-8b61-41ca-91c2-5c59e8e368d8)
-5 50_026460d3](https://github.com/user-attachments/assets/bc068364-f585-4d1b-a45c-22f242a7cdaf)
-
-(https://github.com/user-attachments/assets/353c2b99-eb70-4d3c-9294-f8bcb2d122d7)
-t 2024-08-04 122715](https://github.com/user-attachments/assets/f187ffd6-3ccf-4e1e-a36e-9fef4d5b4c5a)
-
-## Prediction_Model Link
+![WhatsApp Image 2024-08-16 at 18 14 29_0bc55b79](https://github.com/user-attachments/assets/3e939069-e0dd-497f-b716-d7b72e7ac3a9)
+![WhatsApp Image 2024-08-16 at 18 15 50_026460d3](https://github.com/user-attachments/assets/c91ea415-7ef3-4b4d-9735-62fb4be70a4b)
+![WhatsApp Image 2024-08-16 at 18 16 48_9d1cc527](https://github.com/user-attachments/assets/41a79e1f-10b2-498a-a2f0-f73a79d9999e)
 
 
-**Access Link:** (https://github.com/madhuramkulshrestha123/Profinder_chatbot_7)
+## Prediction_Model API URL:
+**URL:** https://sklearn-xyz-ppml.onrender.com/predict
+**Git Link:** ([https://github.com/madhuramkulshrestha123/Profinder_chatbot_7](https://github.com/madhuramkulshrestha123/xyz))
 
 ## Dataset Link
 
